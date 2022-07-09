@@ -28,4 +28,3 @@ for test in range(int(input())):
         else:
             break
     print()
-    
